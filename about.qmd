@@ -1,0 +1,7 @@
+# O projekte
+
+**Kruhy** je živé digitálne vydanie knihy.
+
+Autor: **Marián Orávik (Pravdoslav)**
+
+Text vzniká a vyvíja sa priamo v tomto repozitári. Verejná vetva `main` obsahuje stabilné vydanie; vetva `develop` slúži na prípravu ďalšej verzie.
