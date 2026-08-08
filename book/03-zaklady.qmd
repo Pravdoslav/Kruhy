@@ -1,0 +1,70 @@
+# Aké sú základy?
+
+## Aká je myšlienka Kruhov jednou vetou?
+
+Kruhy sú samosprávny systém spolupráce ľudí, v ktorom môže ľubovoľný počet ľudí spolupracovať z pohľadu člena/človeka čo možno najslobodnejším, najprirodzenejším a najspravodlivejším spôsobom.
+
+## Aké sú myšlienky Kruhov 5-timi vetami?
+
+Hlavné idey Kruhov sú tie, aby pri spolupráci viacerých ľudí nevznikalo pokrivenie človeka, jeho útlak a nesloboda. T.j. aby nadriadení nekrivili svojimi príkazmi a nariadeniami podriadených resp. aby sa podriadení nemuseli kriviť pred nadriadenými. Dosahuje sa to tým, že v Kruhoch nie sú podriadení, ani nadriadení, ale iba členovia OK, ktorí si svojich zástupcov môžu voliť a odvolávať (resp. vymieňať) spomedzi seba kedykoľvek. Každý člen OK sa môže kedykoľvek stať zástupcom kruhu, a ak zástupcom kruhu je, tak môže byť vymenený a to kedykoľvek podľa potreby členov daného kruhu, alebo podľa ich želania, alebo automaticky na základe nejakého nimi dohodnutého kľúča (viď. kap. [Ako vybrať zástupcu kruhu?](#word-ako-vybrat-zastupcu)). Tým je neustále obmedzovaná, minimalizovaná a limitovaná moc každého zástupcu nad členmi kruhu, ako aj členov kruhu nad ich zástupcom, ktorý sa tiež môže rozhodovať slobodne tak, ako všetci členovia OK.
+
+## Aký názov a terminológia?
+
+Spôsob spolupráce ľudí, ktorý popisujeme v tomto dokumente pre jednoduchosť a stručnosť nazývame Kruhy.
+
+Presnejší, konkrétnejší (ale aj zložitejší a menej praktický) názov by mohol byť napr.:
+
+- *Kruhovo-sieťovo-spätno-väzobne-ahierarchická samo-organizácia*
+        - *[Prečo kruhovo-sieťovo-spätno-väzobne-ahierarchická?](#word-preco-kruhovo-sietovo-spatno-vazobn)*
+- *Slov-(e|a|ä|ӕ|я)-nské Kruhy*
+- *Organické Kruhy, Okruhy, ...*
+
+Organizáciu ktorá uplatňuje tento spôsob spolupráce ľudí nazývame Organizácia Kruhy. Skrátene Kruhy, skratkou OK.
+
+## Aký nie je základný princíp Kruhov?
+
+Organizácia Kruhy nie je riadená hierarchicky mocensky zhora nadol (ako väčšina organizácií, politických strán... na Slovensku a inde), ktoré práve preto ľudí a spoločnosť stále viac krivia/deformujú, rozdrobujú, rozhádavajú a čím ďalej viac rozdeľujú až do jej atomizácie. Svojou samou existenciou tieto organizácie mocou riadené zhora hierarchicky nadol v spoločnosti materializujú mocenskú schému manipulácie a ovládania ľudí systémom rozdeľuj a panuj a vytvárajú súčasnú davo-elitársku patologickú pokrivenú/zdeformovanú spoločnosť.
+
+## Aký je základný princíp Kruhov?
+
+Kruhy sú organizované (stručne povedané) opačným spôsobom, t.j. zdola hore. Od jednotlivých členov, ktorí si sami vytvárajú štruktúru organizácie pružne, priebežne a prirodzene (PPP) podľa vlastných potrieb. Ako presne je uvedené v kapitole: [Prečo kruhovo-sieťovo-spätno-väzobne-ahierarchická organizácia?](#word-preco-kruhovo-sietovo-spatno-vazobn) Toto je zložitá slovná charakteristika ale v praxi je to veľmi jednoduché a intuitívne. Jedná sa pritom ale o zmenu paradigmy, ktorá podporuje kvalitatívne iné medziľudské vzťahy v organizácii, ktoré vo svojich dôsledkoch vytvárajú väčší priestor na slobodnú spoluprácu ľudí, ako aj ich názorové zbližovanie, hľadanie spoločných prienikov a spájanie sa za účelom dosiahnutia spoločných cieľov.
+
+## Zoznam použitých skratiek a výrazov?
+
+- OK: Organizácia Kruhy
+- PPP: pružne, priebežne a prirodzene (prispôsobivo)
+- ZMRD: Zhora Mocou Riadená Dole (organizácia, štruktúra, strana…). Vzhľadom na to, že skratka týchto slov znie v slovenčine príliš explicitne, tak ako alternatívu (aj keď neradi, pretože je to asi najvýstižnejší popis, definujúci aj odkiaľ aj kam aj ako je riadená), sme trošku slovenčinu ohli a v texte budeme miesto tejto skratky používať menej explicitne znejúcu, ale možno aj menej výstižnú skratku:
+    - ZMAR: Zhora Mocou ako Armáda Riadená (organizácia, štruktúra, strana...)
+- Egopat: Jedinec s patologicky zväčšeným egom. Slovenský novotvar použitý ako eufemizmus na zjemnenie bežne používaných výrazov: psychopat/sociopat/deprivant. Na zvýraznenie jednej konkrétne povahovej črty egopata výnimočne použijeme alternatívny výraz:
+    - Debilizátor
+
+## Aké sú výhody Kruhov?
+
+Sloboda: členovia Organizácie Kruhy (OK) sú slobodní vo svojich názoroch a presvedčeniach. Každý člen môže slobodne prejavovať svoje vlastné presvedčenie a názory, nemusí svoje presvedčenia prispôsobovať názorom a zámerom nadriadených, alebo sa pred nimi pretvarovať, aby mal väčšiu šancu byť ocenený, alebo povýšený. Prípadne aby nebol nimi šikanovaný, alebo z organizácie vylúčený. Inými slovami člen OK nemusí kriviť hlas svojho najlepšieho vedomia a svedomia pred nejakým “vedením” organizácie (ani ich potenciálne falošnými ideologickými dogmami). Nie členovia OK by sa mali snažiť vyhovieť vedeniu, ale naopak ich zástupcovia kruhov (na všetkých stupňoch) by sa mali snažiť čo najlepšie zastupovať členov kruhov a veci na ktorých sa spoločne dohodli, v opačnom prípade môžu byť pružne, priebežne a prirodzene (PPP) nahradzovaní tými, ktorí sú schopnejší a ochotnejší robiť to lepšie.
+
+Pružnosť, Priebežnosť a Prirodzenosť (Prispôsobivosť) (PPP): Členovia v OK sa môžu kedykoľvek preorganizovať podľa svojich vlastných potrieb a cieľov, ktoré si sami určia, meniť spôsob vzájomnej spolupráce ako aj svojich zástupcov a ľudí zastávajúcich akékoľvek funkcie v organizácii a to priebežne (t.j. okamžite) a pružne vtedy, keď je to potrebné, bez nutnosti čakať na nejaké voľby, alebo volebné obdobia. T.j. nemusia povinne čakať na nejaké neprirodzené mocensky zhora nadiktované termíny, alebo spôsoby voľby svojich zástupcov, povinne trpieť ich zástupcov do konca ich volebného obdobia a ich zhora diktované príkazy, zákazy, zákony, nariadenia, reformy...
+
+Prispôsobivosť štrukturálna aj personálna: Štruktúra OK je [kruhovo-sieťovo-spätno-väzobne-ahierarchická](#word-preco-kruhovo-sietovo-spatno-vazobn) a nie ZMAR (zhora mocensky ako armáda riadená) tak, ako sú dnes riadené mnohé štátne, politické, korporátne, cirkevné a iné štruktúry a organizácie. V OK sa ľudia môžu pružne na rôznych stupňoch a v rôznych kruhoch striedať v ľubovoľnom čase, čím je umožnené, aby kľúčové pozície zastávali v danom čase najproduktívnejší a v danej veci najschopnejší členovia (vzhľadom na členmi zvolené ciele).
+
+Efektívnosť: Členovia OK môžu byť efektívni, pretože môžu spolupracovať v kruhoch/kolektívoch s takým počtom členov, aký im najviac vyhovuje (vzhľadom k svojim schopnostiam, možnostiam, cieľom a úlohám aké si stanovia). A to preto, že sa sami  môžu kedykoľvek preskupiť/preorganizovať tak, ako im to vyhovuje. Veľkosť kruhu si určujú členovia každého kruhu sami, podľa svojich potrieb a činností, ktoré chcú robiť. Napr. lokálne kruhy na 1. stupni môžu chcieť byť menšie (s menším počtom členov) tak, aby sa v nich členovia mohli rýchlejšie spoznávať, jednoduchšie a efektívnejšie medzi sebou komunikovať a jednoduchšie si organizovať fyzické, alebo online stretnutia atď. Na druhej strane väčšie kruhy, napr. tematicky, alebo úlohovo špecializované, alebo kruhy na vyšších stupňoch, kladú väčšie nároky na schopnosti jednotlivých členov (napr. efektívnejšie komunikovať atď.), ale na druhej strane majú potenciál realizovať zložitejšie úlohy.
+
+Odolnosť: umožňuje členom OK lepšie odolávať tlaku egopatov, t.j. ideologicky, psychicky, mentálne, alebo inak zadubených/zdeformovaných ľudí (ktorých patologické ego prerastá ich samých a ktorí tým ich prerasteným egom vytvárajú na ostatných tlak, ktorí títo vnímajú negatívne).
+
+::: {.word-note}
+*Poznámka: Egopati t.j. napr. rôzni sociopati, psychopati, podvodníci, viactvárni pokrytci, ako aj rôzni (skrytí, alebo aj otvorení) agenti nejakej inej organizácie, alebo ideológie sa typicky snažia čo najviac presadiť v rôznych mocenských funkciách a potom sa v nich zabetónovať na čo najdlhšie volebné obdobie, pretože túžia po moci a sú od nej závislí, aby pomocou nej mohli presadiť a ostatným vnútiť agendu svojho ega. Takto sa títo egopati, t.j. mocichtiví, svojim patologickým egom prerastení jedinci postupne snažia ovládnuť riadiace štruktúry každej organizácie (viď. železný zákon oligarchizácie politických strán). Ako sa hovorí, každá moc korumpuje a absolútna moc korumpuje absolútne.*
+:::
+
+::: {.word-note}
+*Po získaní moci sa takto narušení jedinci (egopati) typicky snažia oslabiť/potlačiť všetkých ostatných (či už informačne, materiálne, fyzicky, psychicky, alebo mentálne (oslabiť, t.j. debilizovať ich). Keďže väčšinu spoločností riadia zhora mocensky ako armády riadené (ZMAR) štruktúry a organizácie, preto prostredníctvom nich väčšinu spoločnosti aj jej jednotlivých častí ovládajú egopati (t.j. debilizátori – mocibažné individuá s patologicky prerasteným egom snažiaci sa ovládnuť ostatných a následne ich informačne, materiálne, psychicky, mentálne alebo inak oslabiť/debilizovať). Preto sú v každej spoločnosti/štáte s prevahou ZMAR štruktúr a organizácií takto narušení jedinci na vedúcich miestach. V ZMAR štruktúrach získavajú zvýhodnené mocenské postavenie, na úkor všetkých ostatných, v ktorom sa na roky, desaťročia a najlepšie doživotne zabetónujú. V spoločnosti, kde ZMAR štruktúry a organizácie prevažujú je takáto patológia osobnosti najviac úspešná a preto tieto spoločnosti generujú práve takýchto egopatov, ktorí svojim egom následne utláčajú ostatných.*
+:::
+
+::: {.word-note}
+*Vedenie väčšiny ZMAR štruktúr a organizácií (napr. politických strán, korporácií, cirkví...) časom ovládnu egopati (t.j. mocou posadnutí riadiaci/riadení debilizátori/deprivanti) a to typicky tým väčší (odhodlanejší, fanatickejší, všehoschopnejší, skorumpovanejší, prefíkanejší, pokryteckejší a viac pretvarujúci sa) a tým viac nebezpeční, čím sú na vyššom stupni hierarchie a majú viac moci. Takto ZMAR organizácie svojou samotnou existenciou vytvárajú v spoločnosti priestor pre ľudí s takýmito charakterovými črtami a dávajú im moc.*
+:::
+
+Členovia OK však môžu takémuto škodlivému správaniu egopatov predchádzať a čeliť vďaka tomu, že OK nedefinuje žiadne volebné obdobie pre žiadne funkcie. Tým je znížená motivácia členov bojovať o akékoľvek funkcie v OK a zmenšujú sa im aj príležitosti na zneužitie moci. Ak by aj nejaký mocibažnejší/egopatickejší/egoistickejší člen svoju akúkoľvek funkciu chcel zneužiť (alebo nejako zneužil) pre nejaké svoje egoistické ciele, členovia OK môžu tento problém bez meškania vyriešiť viacerými spôsobmi. Napr.:
+
+- jednoduchým návrhom na výmenu daného zástupcu za niekoho vhodnejšieho,
+- prípadne aj navrhnúť vylúčiť daného člena z daného kruhu,
+- alebo sami, alebo aj spolu s inými členmi prejsť do iného kruhu,
+- a pod.

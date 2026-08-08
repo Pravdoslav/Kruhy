@@ -1,5 +1,7 @@
 # Začni tu
 
-Táto stránka bude vstupom do knihy.
+Toto je digitálne vydanie textu *Kruhy*.
 
-Rukopis sem budeme postupne prenášať po kapitolách. Každá kapitola bude samostatný súbor, aby sa dala ľahko čítať, upravovať a sledovať v histórii projektu.
+Každá časť knihy je samostatnou kapitolou. Text sa tak dá priebežne upravovať, dopĺňať a sledovať v histórii projektu bez zásahu do zvyšku rukopisu.
+
+Začať môžeš pri [Úvode](02-uvodom.qmd).

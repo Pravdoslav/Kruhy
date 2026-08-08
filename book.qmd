@@ -1,6 +1,26 @@
 ---
 title: "Kruhy"
+lang: sk
+toc: true
+number-sections: false
+output-file: Kruhy
+filters:
+  - filters/word-note.lua
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 2.2cm
+      y: 2.2cm
+  epub:
+    css: book.css
 ---
+
+```{=typst}
+#pagebreak()
+```
+
+{{< include book/02-uvodom.qmd >}}
 
 {{< include book/03-zaklady.qmd >}}
 

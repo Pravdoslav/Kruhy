@@ -2,4 +2,10 @@
 
 Webové vydanie je hlavný spôsob čítania.
 
-PDF a EPUB budú vytvorené z tých istých zdrojových kapitol pri každom verejnom vydaní. Odkazy na hotové súbory doplníme pri prvom publikovaní.
+Knihu si môžete stiahnuť aj ako PDF na čítanie a tlač alebo ako EPUB pre elektronické čítačky.
+
+[Stiahnuť PDF](downloads/Kruhy.pdf){.btn .btn-primary download="Kruhy.pdf"}
+
+[Stiahnuť EPUB](downloads/Kruhy.epub){.btn .btn-outline-primary download="Kruhy.epub"}
+
+Oba súbory vznikajú z rovnakých zdrojových kapitol ako webové vydanie.

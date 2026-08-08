@@ -1,0 +1,99 @@
+# Ako prepojiť, rozšíriť a uplatniť kruhy?
+
+## Ako prepojiť kruhy prostredníctvom zástupcov kruhov?
+
+Zástupcovia kruhov sa v prvom rade zúčastňujú na stretnutiach kruhov, ktoré zastupujú a evidujú to, čo členovia kruhu riešia, alebo čo by chceli riešiť, s čím majú nejaké ťažkosti, s čím by potrebovali od niekoho pomôcť, alebo naopak s čím by vedeli niekomu pomôcť atď.
+
+Potom na stretnutí zástupcov (v kruhu 2.stupňa) riešia spolu s ostatnými zástupcami ostatných kruhov to podstatné, čím boli poverení, vymieňajú si vzájomne informácie a dohadujú vzájomne výhodnú spoluprácu medzi jednotlivými kruhmi a ich členmi.
+
+Následne na ďalšom stretnutí kruhov informujú členov kruhov o podstatných náležitostiach toho, čo riešili s ostatnými zástupcami kruhov, aké sú možnosti spolupráce, návrhy na aktivity, príležitosti, potreby, alebo ponuky na pomoc tak, aby všetci členovia boli dostatočne oboznamovaní o všetkom podstatnom, podľa možnosti zbytočného komunikačného šumu.
+
+::: {.word-note}
+*Príklad: Takto môže spolu spolupracovať napr. v 11 kruhov (s priemerným počtom napr. 9 členov) 11 x 9 = 99 ľudí, pričom vždy sa stretáva priemerne iba 9 ľudí naraz, či už naživo, alebo online. Informácie medzi kruhmi sprostredkovávajú ich zástupcovia, ktorých je toľko koľko je kruhov: 11. Stretnutia takéhoto malého počtu ľudí sa dajú robiť prakticky v ľubovoľnej miestnosti, alebo priestore, či už v súkromí, alebo v nejakom podniku, možno dokonca pri jednom stole, alebo pohodlne online z domu cez video konferenciu (napr. cez zoom, google meet, element... :  [https://matrix.org/ecosystem/clients/element/](https://matrix.org/ecosystem/clients/element/) .*
+:::
+
+## Ako dosiahnuť spoluprácu ľubovoľného počtu ľudí?
+
+Pri väčších, alebo dlhodobejších úlohách/aktivitách je lepšie ak spolupracuje ešte viac ľudí. Napr. pri správe vecí verejných, v mestách, regiónoch, alebo celom štáte, čím viac ľudí spolupracuje tým lepšie. Preto má veľký význam, aby týchto napr. 11 kruhov (z príkladu z predchádzajúcej kapitoly) z nejakej obce, alebo mesta spolupracovalo s ďalšími kruhmi z iných miest a obcí.
+
+A to jednoducho opäť prostredníctvom zástupcov, ale na ešte vyšších stupňoch. Preto si aj zástupcovia kruhu na 2. stupni tiež zvolia svojho zástupcu, ktorý ich bude zastupovať na ešte vyššom stupni. Ten bude zastupovať už nie iba jeden kruh, ale v tomto príklade 11 kruhov (t.j. všetkých 99 členov týchto 11 kruhov).
+
+Ak budú chcieť tieto kruhy spolupracovať spolu s inými kruhmi z iných obcí a miest (ktorých nech je napr. v nejakom regióne 10), tak ich zástupcovia kruhov 2. stupňa spolu vytvoria kruh už 3. stupňa, v ktorom sa budú môcť pravidelne stretávať a komunikovať navzájom a riešiť potrebné veci.
+
+::: {.word-note}
+*Príklad: Pre jednoduchosť predpokladáme, že je 10 zástupcov kruhov na 2.stupni, ktorí každý zastupuje priemerne 11 kruhov s priemerne 9-timi členmi. Potom v tomto príklade už môže takto spolupracovať 10 x 11 x 9 = 990 ľudí (v 10 x 11 = 110-tich kruhoch 1. stupňa s priemerným počtom členov 9, 10-tich kruhov 2. stupňa s priemerným počtom členov 11 a 1 kruhu 3. stupňa s 10 členmi). A takto analogicky sa môžu kruhy rozširovať na ešte vyššie stupne.*
+:::
+
+::: {.word-note}
+*Pre jednoduchosť predpokladajme, že priemerný počet členov v kruhoch je (napr.) 10, tak takýmto spôsobom s každým ďalším stupňom sa počet ľudí, ktorí môžu takto v OK spolupracovať zväčšuje 10 násobne, t.j.:*
+:::
+
+| Dosiahnutý stupeň kruhov v OK | Odhadovaný počet členov OK, ktorí môžu takto spolupracovať |
+| --- | --- |
+| 1. stupeň | 10 |
+| 2. stupeň | 100 |
+| 3. stupeň | 1 000 |
+| 4. stupeň | 10 000 |
+| 5. stupeň | 100 000 |
+| 6. stupeň | 1 000 000 |
+| 7. stupeň | 10 000 000 |
+
+::: {.word-note}
+*Atď.*
+:::
+
+## Je v Kruhoch potrebná jednota názorov?
+
+Vôbec nie. Kruhy nevyžadujú názorovú jednotu. Naopak umožňujú názorovú slobodu jednotlivých členov OK v maximálnej možnej miere, ktorá je ohraničená len tou podmienkou, že každého člena OK musia akceptovať členovia aspoň jedného kruhu OK, ktorí ho prijmú za člena (a nevylúčia ho).
+
+Každý človek by sa mal riadiť podľa svojho najlepšieho vedomia a svedomia či už je v OK, alebo nie je. V OK je to umožnené aj vďaka tomu, že OK nie je viazaná na žiadnu ideológiu. Nie je naľavo ani napravo, nie je liberálna, ani konzervatívna, neviaže sa na judaizmus, islam/islamizmus, kresťanstvo/katolicizmus, alebo iné žido-kresťanstvo, kapitalizmus, liberalizmus, demokratizmus, fašizmus, nacizmus, marx-leninizmus, neo-marxizmus, socializmus, komunizmus, progresivizmus... ani na žiadnu inú „vyvolenú“ ideológiu, ktorú by svojim členom akokoľvek vnucovala.
+
+OK nie je naviazaná na žiadnu ideológiu a preto nie je obmedzená žiadnou ideologickou príručkou. Preto nemusí byť nijak neprirodzená a môžu ju tvoriť všetci živí ľudia, ktorí môžu OK sami podľa svojho vlastného autentického vedomia a svedomia tvoriť do podoby čo možno najlepšieho ideálu človeka, ktorý sa môže v čase meniť, podľa stupňa nimi dosiahnutého vedomia a svedomia.
+
+Samozrejme spolupráca medzi ľuďmi je možná iba tam, kde existujú nejaké názorové prieniky. Kde sa ľudia dokážu aspoň na niečom zhodnúť. Preto každý kruh môže efektívne robiť iba to, s čím sa väčšina jeho členov dokáže stotožniť. Preto je v záujme členov kruhov, aby spolu hľadali a nachádzali také témy a oblasti, ktoré dokáže väčšina členov kruhu podporiť. Diskusia členov kruhov zároveň vytvára priestor na to, aby sa počet takýchto vecí časom zvyšoval.
+
+Ak by niektorí členovia nejakého kruhu mali tak odlišné názory na veci, ktoré by mal daný kruh riešiť, alebo tak odlišné svetonázory, prípadne povahy, že by im to znemožňovalo spoluprácu, tak je lepšie rozísť sa do iných kruhov. Prípadne ak sú členovia nejakého kruhu názorovo rozpoltený, tak rozdeliť kruh na dva kruhy tak, aby sa členovia kruhu navzájom nenegovali, ale naopak aby v každom kruhu dokázali nájsť spoločne zhodu na tom, čo chcú riešiť a ako a mohli spolu na tom spolupracovať.
+
+Takýmto spôsobom členovia miesto toho, aby sa vzájomne negovali v jednom kruhu, môžu v rôznych kruhoch riešiť buď rôzne veci, alebo tú istú vec iným spôsobom.
+
+Takto členovia OK môžu paralelne a flexibilne riešiť všetky veci, ktoré sa rozhodnú riešiť, rôznymi spôsobmi tak, aby čo najlepšie zohľadnili svoje možnosti, schopnosti, poznanie, miestne a iné špecifiká a rôzne okolnosti...
+
+Je oveľa lepšie, keď existuje viacero dobrých riešení na každý problém, ako to je pri súčasnom riadení spoločnosti, kedy existuje veľa problémov na ktoré súčasný systém/režim neponúka žiadne riešenia (kvôli egopatom, ktorí dnes zväčša ovládajú spoločnosť a ktorí mnohé problémy buď ani nevnímajú, nevedia, alebo nechcú riešiť, alebo zametajú pod koberec, resp. niečím prekrývajú, alebo dokonca problémy ostatným sami vytvárajú, ak je to pre nich výhodné).
+
+Pre každého človeka je preto najlepšie sa do Kruhov zapojiť čo najskôr, aby aj jeho názor mohol zaznieť vo verejnej diskusii a stal sa súčasťou spolurozhodovania a smerovania celej spoločnosti. Zapojil sa hľadania možností a spôsobov ako riadiť spoločnosť a do jej vedenia dostať ľudí, ktorí nie sú tak zdeformovaní a spoločnosť deformujúci ako tí, ktorí sú tam dnes. A to aj keby v OK už boli napr. nejakí jeho názoroví oponenti, aby v Kruhoch mohol zaznieť aj jeho názor, nielen ich.
+
+V súčasnosti prakticky celú spoločnosť ovládajú zhora mocou ako armády riadené (ZMAR) štruktúry a organizácie. Tie mocou riadia zhora poväčšine egopati, ktorí zväčša medzi sebou bojujú o ešte viac moci. V tomto ich boji im pomáhajú aj ich podriadení v týchto ZMAR štruktúrach a organizáciách s cieľom spoločne sa presadiť, získať si viac moci a viac a väčších korýt.
+
+Členovia Kruhov však majú možnosť kedykoľvek zmeniť svojich zástupcov a preto môžu docieliť že ich zástupcovia v OK nebudú takí egopati. A tým v spoločnosti postupne presadiť ľudí kvalitnejších, empatickejších, schopnejších diskusie a hľadania riešení výhodných pre všetkých, ktorí dokážu v slobodnom duchu spolupracovať s ostatnými ľuďmi. Ľudí rozumnejších, duchaplnejších, ochotnejších a schopnejších vzájomnej spolupráce, ľudí slobodného ducha a teda aj tolerantnejších k rôznym názorom a vnímavejších k potrebám iných.
+
+## Môžu byť Kruhy riešením politických kríz?
+
+Kvalitnejší manažment správy vecí verejných spoločnosti vytvára lepšie podmienky pre lepšie fungovanie celej spoločnosti a zmenšuje možnosti negatívnych vplyvov na spoločnosť či už vonkajších, alebo vnútorných. Čím viac ľudí sa bude aktívne venovať samospráve spoločnosti slobodne a na základe svojho najlepšieho vedomia a svedomia, tým má spoločnosť lepšie predpoklady zlepšovať sa.
+
+Čím viac ľudí sa bude angažovať v takto slobodných nezávislých samosprávnych kruhoch, navzájom spolupracujúcich slobodným, pružným a fluidným spôsobom v OK, tým budú v spoločnosti vytvárať väčší priestor na vlastné sebazdokonaľovanie sa (napr. v čo najlepšej a najefektívnejšej komunikácii a spolupráci s inými členmi OK atď.), ako aj vo vyhľadávaní a rozpoznávaní takých zástupcov svojich kruhov, ktorí (nebudú tak, ako verejní zástupcovia v súčasnosti egoisticky zahľadení do seba, svojich majetkov, svojich pôžitkov, alebo nejakej svojej obľúbenej ideológie, svojej zadubenosti, svojmu fanatizmu, ale naopak) budú prebudenejší, vedomejší, rozhľadenejší, tolerantnejší, pravdivejší a pravde-vernejší, pokoja a mieru-milovnejší, rozumnejší, jedným slovom cnostnejší.
+
+A na druhej strane čím viac ľudí sa bude viac angažovať v OK, tým viac môžu z verejného priestoru vytesniť zdeformovaných egoistických ľudí (egopatov, sociopatov, psychopatov, deprivantov, debilizátorov…), ktorí najviac túžia po tom, aby sa zmocnili všetkých mocenských funkcií a zabetónovali sa v nich natrvalo (alebo aspoň na nejaké čo najdlhšie volebné obdobie), aby si v týchto funkciách mohli uspokojovať nejaký svoj konkrétny egoizmus a všetko ostatné a všetkých ostatných mohli svojou mocou utláčať/debilizovať.
+
+Takto môžu členovia OK, ak ich počet bude dostatočný, v spoločnosti vytvoriť opačný trend, aký je dnes, kedy sa v spoločnosti prostredníctvom ZMAR organizácií presádzajú stále egoistickejší, majetníckejší, skorumpovanejší, kriminálnejší, ideologicky zadubenejší, namyslenejší, nenávistnejší, prolhanejší, konfliktnejší, dvojtvárnejší/pokryteckejší, t.j. zdeformovanejší jedinci a miesto nich by sa v spoločnosti aj do správy vecí verejných dostávať ľudia viac altruistickejší, skromnejší, čestnejší, tolerantnejší, prebudenejší, vedomejší, rozhľadenejší, priateľskejší, pravdivejší a pravde-vernejší, pokoja a mieru-milovnejší, rozumnejší, jedným slovom cnostnejší.
+
+## Ako Kruhmi opraviť zdeformovaný politický režim?
+
+Politický režim, resp. celá spoločnosť je deformovaná súčasnými z hora nadol riadenými ZMAR mocenskými štruktúrami a to najmä tými najmocnejšími, najmajetnejšími a najväčšími politickými stranami, masmédiami, korporáciami, cirkvami atď.
+
+Tieto štruktúry zdeformovali celý politický režim v spoločnosti a štáte na svoj obraz tak, že je tiež mocenskými nástrojmi riadený hierarchicky z hora nadol, t.j. smerujúci väčšinu občanov a členov spoločnosti dole.
+
+Je mnohé čo by sa dalo zlepšiť, ale začať sa dá iba od aktuálneho stavu spoločnosti. Nemá pritom zmysel čakať na nejaké “dopadnutie na dno z ktorého sa potom odrazíme”, pretože žiadne také dno neexistuje. Spoločnosť môžu vždy riadiť ešte horší ľudia, kriminálnejší a pod ich vedením môže aj Slovensko skončiť ešte horšie ako Somálsko, Kongo, Ukrajina, alebo napr. Nemecko na konci 2. svetovej vojny.
+
+Ak sa členovia OK rozhodnú prispieť k náprave politického režimu, tak ich práca bude tým efektívnejšia, čím viac prispôsobia svoju štruktúru (t.j. štruktúru OK) organizačnej štruktúre súčasných štátnych štruktúr. Samozrejme podľa možností a kapacít členov OK a pri zachovaní princípov OK.
+
+Ak členovia Kruhov budú chcieť, môžu sa napr. rozhodnúť zúčastniť komunálnych volieb. Na to nie je potrebné ani vytvorenie formálnej politickej strany, dokonca ani formálneho občianskeho združenia. Nie je k tomu potrebná celoštátna kampaň a ani to, aby sa na výbere kandidátov a volebnej kampani zúčastnili všetky kruhy. Budú sa tomu prirodzene venovať len tie kruhy, ktorých členovia to budú chcieť a budú v tom vidieť zmysel. Ale to nevadí. Ak sa členom aspoň niektorých týchto kruhov podarí pomôcť vo voľbách zvoliť lepších ľudí, ako sú tam dnes, tak je to činnosť vykonávaná pre spoločné dobro všetkých (bohumilá).
+
+Jednotlivé kruhy na miestnej úrovni napr. môžu, ak by chceli, podporiť kandidátov rôznych politických subjektov, podľa svojho výberu a rozhodnutia, pretože v každej strane môžu byť aj kvalitnejší aj menej kvalitní ľudia. Alebo môžu podporiť nejakých nezávislých kandidátov, prípadne môžu nominovať vlastných kandidátov OK a pomôcť im zviditeľniť sa pred voľbami. Viac o tom v kapitole [Konkrétne príklady prepojenia Kruhov v samospráve](#word-na-uro).
+
+Ak budú mať členovia Kruhov dostatok síl, prostriedkov, odvahy, vôle, odhodlania atď. môžu sa zúčastniť každých volieb. Najdôležitejšie v SR sú voľby do parlamentu/NRSR, pretože akákoľvek zmena politického systému/režimu v SR k lepšiemu zákonnou cestou je možná iba z parlamentu/NRSR – zmenou zákonov/Ústavy.
+
+Takéto rozhodnutie by pre členov OK znamenalo, že budú musieť okrem sformulovania svojich cieľov, politického programu, návrhov riešení... vybrať aj tých čo možno najlepších zástupcov OK vo voľbách do NRSR. T.j. kandidátov OK na poslancov NRSR. Podľa toho, či sa členovia OK rozhodnú kandidovať vo voľbách do NRSR samostatne, ako samostatná politická strana, alebo hnutie, alebo budú ich kandidáti kandidovať na kandidátke nejakej inej pol. strany, alebo koalície strán, alebo zvolia nejaký iný spôsob, tak tým vznikajú ďalšie úlohy, ktoré bude treba vyriešiť (napr. formálne zaregistrovanie sa ako pol. strana, alebo hnutie).
+
+V každom prípade v rámci každého úsilia a vynaloženej energie sa ľudia v kruhoch lepšie spoznajú, spoznajú svoje názory, svoje silné a slabé stránky, svoje možnosti a schopnosti, vytvoria si systém spolupráce a spôsoby spoločnej komunikácie a rozhodovania na všetkých stupňoch. Dodržiavaním odporúčaných princípov Kruhov pritom postupne časom prirodzene a samoorganizačne vytvoria samosprávne fungujúcu štruktúru OK.
+
+Príklad ako by mohla takáto komplexná štruktúra Kruhov po čase vyzerať je uvedená v kapitole [Celoslovenské Kruhy](#word-statostrana-kruhy). Je to ale iba jedna z možností, pretože konkrétna štruktúra OK bude závisieť od členov OK a ich možností a schopností. Takže ho uvádzame iba ako námet na zamyslenie pre tých, ktorí radi rozmýšľajú ďaleko za horizont súčasnosti.
