@@ -21,7 +21,15 @@ jobs:
       - uses: actions/checkout@v4
       - uses: quarto-dev/quarto-actions/setup@v2
       - uses: actions/configure-pages@v5
-      - run: quarto render --to html
+      - name: Vytvorenie PDF a EPUB
+        run: |
+          quarto render book.qmd --to typst --output Kruhy.pdf
+          quarto render book.qmd --to epub --output Kruhy.epub
+          mkdir -p downloads
+          cp Kruhy.pdf downloads/Kruhy.pdf
+          cp Kruhy.epub downloads/Kruhy.epub
+      - name: Vytvorenie webu
+        run: quarto render --to html
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs

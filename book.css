@@ -1,0 +1,10 @@
+.word-note {
+  margin-left: 1.25cm;
+}
+
+img {
+  display: block;
+  height: auto;
+  margin: 1rem auto;
+  max-width: 100%;
+}

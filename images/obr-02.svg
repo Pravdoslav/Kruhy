@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">Rozšírená štruktúra Kruhov</title>
+  <desc id="desc">Viacero miestnych kruhov spojených cez kruhy zástupcov až do celoštátneho kruhu; dole sú odborné kruhy.</desc>
+  <style>text{font-family:Arial,sans-serif;fill:#172033}.line{stroke:#8b98aa;stroke-width:2}.node{fill:#fff;stroke:#274c77;stroke-width:3}.rep{fill:#f5b942;stroke:#8d6817;stroke-width:2}.local{fill:#2e73b8}.special{fill:#d45f8d}.label{font-size:16px;font-weight:700}.small{font-size:13px;fill:#44546a}</style>
+  <rect width="1000" height="430" fill="#f8fafc" rx="18"/>
+  <text x="500" y="30" text-anchor="middle" class="label">Kruh zástupcov (3. stupeň)</text><circle cx="500" cy="76" r="34" class="node"/><circle cx="500" cy="76" r="8" class="rep"/>
+  <g class="line"><path d="M500 110L180 170"/><path d="M500 110L390 170"/><path d="M500 110L610 170"/><path d="M500 110L820 170"/></g>
+  <g><circle cx="180" cy="190" r="30" class="node"/><circle cx="180" cy="190" r="7" class="rep"/><circle cx="390" cy="190" r="30" class="node"/><circle cx="390" cy="190" r="7" class="rep"/><circle cx="610" cy="190" r="30" class="node"/><circle cx="610" cy="190" r="7" class="rep"/><circle cx="820" cy="190" r="30" class="node"/><circle cx="820" cy="190" r="7" class="rep"/></g>
+  <text x="500" y="245" text-anchor="middle" class="small">Kruhy zástupcov (2. stupeň)</text>
+  <g class="line"><path d="M180 220L110 290"/><path d="M180 220L180 290"/><path d="M180 220L250 290"/><path d="M390 220L320 290"/><path d="M390 220L390 290"/><path d="M390 220L460 290"/><path d="M610 220L540 290"/><path d="M610 220L610 290"/><path d="M610 220L680 290"/><path d="M820 220L750 290"/><path d="M820 220L820 290"/><path d="M820 220L890 290"/></g>
+  <g class="node"><circle cx="110" cy="315" r="23"/><circle cx="180" cy="315" r="23"/><circle cx="250" cy="315" r="23"/><circle cx="320" cy="315" r="23"/><circle cx="390" cy="315" r="23"/><circle cx="460" cy="315" r="23"/><circle cx="540" cy="315" r="23"/><circle cx="610" cy="315" r="23"/><circle cx="680" cy="315" r="23"/><circle cx="750" cy="315" r="23"/><circle cx="820" cy="315" r="23"/><circle cx="890" cy="315" r="23"/></g>
+  <g class="local"><circle cx="110" cy="315" r="6"/><circle cx="180" cy="315" r="6"/><circle cx="250" cy="315" r="6"/><circle cx="320" cy="315" r="6"/><circle cx="390" cy="315" r="6"/><circle cx="460" cy="315" r="6"/><circle cx="540" cy="315" r="6"/><circle cx="610" cy="315" r="6"/><circle cx="680" cy="315" r="6"/><circle cx="750" cy="315" r="6"/><circle cx="820" cy="315" r="6"/><circle cx="890" cy="315" r="6"/></g>
+  <rect x="280" y="365" width="150" height="38" rx="19" fill="#fff" stroke="#d45f8d" stroke-width="3"/><circle cx="305" cy="384" r="7" class="special"/><text x="355" y="389" text-anchor="middle" class="small">IT podpora</text>
+  <rect x="570" y="365" width="150" height="38" rx="19" fill="#fff" stroke="#d45f8d" stroke-width="3"/><circle cx="595" cy="384" r="7" class="special"/><text x="650" y="389" text-anchor="middle" class="small">Právna podpora</text>
+  <text x="500" y="350" text-anchor="middle" class="small">Miestne a odborné kruhy (1. stupeň) — schéma znázorňuje princíp rozšírenia</text>
+</svg>

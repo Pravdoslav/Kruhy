@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jednoduchá štruktúra Kruhov</title>
+  <desc id="desc">Osem miestnych kruhov so zástupcami prepojenými do jedného spoločného kruhu druhého stupňa.</desc>
+  <style>text{font-family:Arial,sans-serif;fill:#172033}.line{stroke:#8492a6;stroke-width:2}.ring{fill:#fff;stroke:#243b66;stroke-width:3}.person{fill:#2e73b8}.woman{fill:#d45f8d}.mixed{fill:#8367b7}.rep{fill:#f5b942;stroke:#8d6817;stroke-width:2}.label{font-size:15px;font-weight:700}.small{font-size:12px;fill:#44546a}</style>
+  <rect width="900" height="360" fill="#f8fafc" rx="18"/>
+  <text x="450" y="30" text-anchor="middle" class="label">Kruh zástupcov (2. stupeň)</text>
+  <circle cx="450" cy="95" r="58" class="ring"/>
+  <circle cx="420" cy="80" r="7" class="rep"/><circle cx="440" cy="67" r="7" class="rep"/><circle cx="462" cy="67" r="7" class="rep"/><circle cx="482" cy="80" r="7" class="rep"/><circle cx="482" cy="105" r="7" class="rep"/><circle cx="462" cy="120" r="7" class="rep"/><circle cx="440" cy="120" r="7" class="rep"/><circle cx="420" cy="105" r="7" class="rep"/>
+  <g class="line"><path d="M420 145L115 230"/><path d="M430 150L215 230"/><path d="M440 153L315 230"/><path d="M450 153L415 230"/><path d="M460 153L515 230"/><path d="M470 150L615 230"/><path d="M480 145L715 230"/><path d="M485 135L815 230"/></g>
+  <g>
+    <circle cx="115" cy="270" r="42" class="ring"/><circle cx="95" cy="260" r="6" class="person"/><circle cx="115" cy="252" r="6" class="person"/><circle cx="135" cy="260" r="6" class="person"/><circle cx="115" cy="282" r="6" class="person"/><circle cx="115" cy="225" r="7" class="rep"/>
+    <circle cx="215" cy="270" r="42" class="ring"/><circle cx="195" cy="260" r="6" class="person"/><circle cx="215" cy="252" r="6" class="person"/><circle cx="235" cy="260" r="6" class="person"/><circle cx="215" cy="282" r="6" class="person"/><circle cx="215" cy="225" r="7" class="rep"/>
+    <circle cx="315" cy="270" r="42" class="ring"/><circle cx="295" cy="260" r="6" class="person"/><circle cx="315" cy="252" r="6" class="person"/><circle cx="335" cy="260" r="6" class="person"/><circle cx="315" cy="282" r="6" class="person"/><circle cx="315" cy="225" r="7" class="rep"/>
+    <circle cx="415" cy="270" r="42" class="ring"/><circle cx="395" cy="260" r="6" class="woman"/><circle cx="415" cy="252" r="6" class="woman"/><circle cx="435" cy="260" r="6" class="woman"/><circle cx="415" cy="282" r="6" class="woman"/><circle cx="415" cy="225" r="7" class="rep"/>
+    <circle cx="515" cy="270" r="42" class="ring"/><circle cx="495" cy="260" r="6" class="woman"/><circle cx="515" cy="252" r="6" class="woman"/><circle cx="535" cy="260" r="6" class="woman"/><circle cx="515" cy="282" r="6" class="woman"/><circle cx="515" cy="225" r="7" class="rep"/>
+    <circle cx="615" cy="270" r="42" class="ring"/><circle cx="595" cy="260" r="6" class="woman"/><circle cx="615" cy="252" r="6" class="woman"/><circle cx="635" cy="260" r="6" class="woman"/><circle cx="615" cy="282" r="6" class="woman"/><circle cx="615" cy="225" r="7" class="rep"/>
+    <circle cx="715" cy="270" r="42" class="ring"/><circle cx="695" cy="260" r="6" class="mixed"/><circle cx="715" cy="252" r="6" class="mixed"/><circle cx="735" cy="260" r="6" class="mixed"/><circle cx="715" cy="282" r="6" class="mixed"/><circle cx="715" cy="225" r="7" class="rep"/>
+    <circle cx="815" cy="270" r="42" class="ring"/><circle cx="795" cy="260" r="6" class="mixed"/><circle cx="815" cy="252" r="6" class="mixed"/><circle cx="835" cy="260" r="6" class="mixed"/><circle cx="815" cy="282" r="6" class="mixed"/><circle cx="815" cy="225" r="7" class="rep"/>
+  </g>
+  <text x="450" y="340" text-anchor="middle" class="small">8 kruhov 1. stupňa → ich 8 zástupcov tvorí jeden spoločný kruh</text>
+</svg>

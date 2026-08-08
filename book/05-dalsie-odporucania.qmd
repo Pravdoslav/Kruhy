@@ -1,0 +1,84 @@
+# Aké sú ďalšie odporúčania pre členov Kruhov?
+
+1. Členom OK odporúčame (pokým sa nerozhodnú inak), rozhodovať v čo možno najväčšej zhode. Pokiaľ je to možné po dostatočnej diskusii jednomyseľne (t.j. konsenzom). Ak to nie je možné, alebo účelné, napr. z časových dôvodov, tak hlasovaním prítomných členov kruhu a to tak, že každý člen kruhu má jeden hlas a hlasovanie je platné ak sa hlasovania zúčastní nadpolovičná väčšina členov kruhu a rozhodnutie schváli nadpolovičná väčšina hlasujúcich. V prípade rovnosti hlasov za a proti rozhodne hlas zvoleného zástupcu kruhu (ak sa členovia kruhu nedohodli inak). Ak hlasujú o nejakých citlivých otázkach (napr. personálnych), alebo ak niektorý člen kruhu o to požiada, tak odporúčame použiť tajné hlasovanie, aby každý mohol hlasovať slobodne, podľa svojho najlepšieho vedomia a svedomia, bez ohľadu na názory ostatných na to, ako by mal, alebo nemal hlasovať.
+1. Člen Kruhov sa môže podieľať na činnosti viacerých kruhov - na všetkých ktoré ho prijmú za člena. Typicky napr. ak členovia kruhu zvolia nejakého svojho člena za zástupcu ich kruhu, tak sa tento člen uchádza aj o členstvo kruhu vyššieho stupňa. Viď. obr. 1. Každý člen sa zároveň môže podieľať aj na činnosti napr. odborných kruhov, alebo iných kruhov vytvorených za nejakým špecifickým účelom, ak ho tieto prijmú. Viď. obr. 2.
+1. Odporúčame, aby všetky kruhy boli navzájom prepojené/zosieťované pomocou zástupcov jednotlivých kruhov tak, aby štruktúra OK umožňovala čo najefektívnejšiu komunikáciu medzi všetkými spolupracujúcimi kruhmi a aby aktivity ich členov mohli byť čo najefektívnejšie. Zástupcovia kruhov zabezpečujú komunikáciu, koordináciu, synchronizáciu a spätnú väzbu od členov OK na všetkých stupňoch horizontálne aj vertikálne - sieťovo. Takto vzniká [kruhovo-sieťovo-spätno-väzobne-ahierarchická](#word-preco-kruhovo-sietovo-spatno-vazobn) štruktúra kruhov - viď. obrázky v ďalšej kapitole.
+
+## Jeden obrázok je viac ako tisíc slov?
+
+![Schéma Kruhov – obrázok 1](images/inkscape/obr-01.svg)
+
+Obr. 1: Príklad jednoduchej (napr. miestnej) štruktúry OK: Z dola: 8 kruhov 1. stupňa: 3 mužské kruhy (modrá bodka=muž) a 3 ženské kruhy (ružová bodka=žena) a 2 zmiešané kruhy. Dohromady je v tomto konkrétnom príklade (3+3)x7 + (2x8)=58 členov. Zvolených 8 zástupcov týchto 8 kruhov tvoria 1 kruh 2. stupňa (hore). Všetci zástupcovia kruhov sú členmi aj kruhu 2. stupňa, aj kruhov, ktoré zastupujú, čo je na obr. označené rovnou čiarou (ktorá spája dve bodky a značí, že sa jedná o toho istého člena).
+
+![Schéma Kruhov – obrázok 2](images/inkscape/obr-02.svg)
+
+Obr. 2: Príklad zložitejšej štruktúry kruhov, kde už je 8x viac kruhov 1. stupňa ako v predchádzajúcom príklade, t.j. 8 x 8 = 64 kruhov 1. stupňa s 8 x 58 = 464 členmi. Nad nimi je na obrázku nakreslených 8 kruhov ich zástupcov kruhov (na 2. stupni) a nad nimi jeden kruh zástupcov (na 3. stupni). Dole na obrázku sú 2 špecializované kruhy, ktoré si vytvorili špecialisti, ktorí sa rozhodli riešiť nejaké špecializované úlohy pre členov OK. Napr. 1 kruh IT podpory, 1 kruh právnickej podpory (a pod).
+
+*Poznámky:*
+
+1. *Tieto dva špecializované kruhy sú na obrázku 2. zobrazené dole iba kvôli prehľadnosti, aby sa na obrázku nekrížili čiary (tie reprezentujú to, že sa jedná o toho istého člena). Všetky kruhy sú však organizované rovnako ako všetky ostatné kruhy. Aj špecializované kruhy a aj všetky kruhy zástupcov kruhov na všetkých stupňoch. V OK preto nemá nejaký význam hovoriť o tom, ktoré kruhy sú vyššie a ktoré nižšie, pretože medzi členmi Kruhov nie sú vzťahy nadriadený/podriadený. Každý člen a každý kruh si dáva a plní úlohy a ciele, ktoré si sami určia. Úlohy si členovia kruhov určia sami, alebo vyplynú z diskusie v kruhu, podľa toho aké kto má záujmy, ciele, možnosti a schopnosti. Úlohou zástupcov kruhov je „iba“ výmena informácií medzi kruhmi, návrhov, žiadostí a ponúk členov iných kruhov o pomoc atď. Medzi členmi jednotlivých kruhov, ani ich zástupcami nie je direktívne mocenské riadenie ostatných členov kruhu.*
+1. Kresliť komplexnejšie štruktúry Kruhov už asi nemá význam. Princíp je myslím dostatočne jasný. So štvrtým stupňom Kruhov by už na obrázku boli tisícky členov (až do zhruba do 10 tisíc) a nebol by prehľadný.
+1. *Každý člen, ktorý sa chce sa stať, sa môže stať členom viacerých kruhov, či už miestnych, alebo nejako špecializovaných, ak je ostatnými členmi týchto kruhov prijatý. Zástupcovia kruhov sú členmi najmenej dvoch kruhov: kruhu, ktorí zastupujú a kruhu na vyššom stupni.*
+1. *Ak by do nejakého napr. špecializovaného kruhu (napr. IT podpory a pod.) chcelo vstúpiť viac členov ako je [rozumný počet členov v jednom kruhu](#word-optimalny-pocet-clenov), potom sa členovia tohto odborného kruhu môžu rozdeliť na viacero kruhov. Na koordináciu medzi týmito kruhmi si potom aj v týchto odborných kruhoch môžu zvoliť svojich zástupcov, ktorí potom vytvoria odborný kruh 2. stupňa. Atď...*
+
+[]{#word-optimalny-pocet-clenov}
+
+## Aký je rozumný počet členov kruhu?
+
+To závisí na členoch kruhu a na úlohách, ktoré riešia. V najvšeobecnejšom prípade však odporúčame 5 až 15 členov kruhu.
+
+Prečo?
+
+Pri malom počte ľudí (menšom ako 5) sa synergetický potenciál kruhu znižuje. Za plnohodnotný kruh (t.j. kruh 1. stupňa) preto odporúčame považovať až 5 a viac ľudí. Príliš malé kruhy (2-4 členné) preto odporúčame, aby sa buď spojili, alebo pripojili k väčším, aby mohli byť inými kruhmi uznané za plnohodnotný kruh 1. stupňa a mohli sa tak stať plnohodnotnou súčasťou OK (ich zástupca mohol byť prijatý do kruhu 2. stupňa - kruhu zástupcov kruhov).
+
+Naopak pri veľkom počte členov v kruhu môže efektivita komunikácie a aktivít členov kruhu klesať kvôli nižšej efektivite komunikácie medzi členmi kruhu, väčšiemu komunikačnému šumu a pod. Pri stretnutí väčšieho počtu ľudí môže byť napr. časovo náročné vypočuť si názory všetkých na danú vec. Nehovoriac ešte o zjednocovaní sa na nejakom spoločnom riešení. A je to o to ťažšie, čím sú členovia kruhu viac názorovo, povahovo alebo hodnotovo odlišní.
+
+Preto odporúčame, aby si členovia hľadali také kruhy, v ktorých sú podľa možnosti im názorovo, povahovo a inak čo možno najbližší ľudia. Najlepšie možno je si taký kruh ich najbližších ľudí sami vytvoriť a prihlásiť do OK spoločne celý kruh. Viď. [Ako založiť kruh?](#word-ako-zalozit-kruh)
+
+Ak počet ľudí v kruhu dosiahne počet, kedy sa už viacerým členom daného kruhu javí kruh ako menej efektívny, alebo názorovo príliš rozdielny, potom môže byť pre členov kruhu efektívnejšie rozdeliť tento kruh na dva (na základe návrhu týchto viacerých členov kruhu).
+
+*Tip: rozličné názory, povahy, preferencie, hodnoty, spôsoby komunikácie... môžu byť príťažou pre komunikáciu, alebo prácu v kruhu. To môže byť spôsobené nielen rozdielnosťou pováh, názorov..., ale o.i. napr. aj rozdielnosťou pohlaví. Preto v prípade rozdeľovania veľkého zmiešaného kruhu (t.j. kruhu pozostávajúceho z mužov a žien) dávame na zváženie jednoduchú možnosť ako rozdeliť kruh na dva kruhy: na mužský a ženský kruh (samozrejme ak je ho možné takto rozdeliť a členovia kruhu s tým budú súhlasiť).*
+
+[]{#word-ako-vybrat-zastupcu}
+
+## Ako vybrať zástupcu kruhu?
+
+Každý kruh by mal mať svojho zástupcu (aspoň jedného), ktorý zastupuje tento kruh v iných kruhoch. Dôvodom je jednoduchšia komunikácia medzi kruhmi a obrana proti komunikačnému šumu. Tak, aby nemuseli komunikovať všetci členovia kruhu so všetkými členmi v iných kruhoch s ktorými daný kruh spolupracuje (to by bol problém s exponenciálnou zložitosťou, t.j. prakticky neriešiteľný, viď. [Prečo sú potrební zástupcovia kruhov?](#word-preco-su-potrebni))
+
+Svojho zástupcu si každý kruh môže zmeniť na hociktorom svojom stretnutí. Člen kruhu zvolený za zástupcu kruhu zastupuje kruh až pokým členovia kruhu nezvolia iného zástupcu kruhu, prípadne sa vo funkcii zástupcu kruhu môžu striedať viacerí členovia kruhu, ktorí majú záujem kruh zastupovať a to buď postupne, alebo nejako inak, podľa toho ako sa v kruhu dohodnú.
+
+Alebo sa môžu dohodnúť napr. tak, že na každom stretnutí vyberú niekoho iného. Prípadne si zaviesť nejaký systém, podľa ktorého sa budú všetci členovia kruhu automaticky striedať v tejto funkcii. Ak by členovia kruhu chceli, môžu si zvoliť aj viacero zástupcov, ktorí budú zastupovať tento kruh napr. v rôznych iných kruhoch. Toto všetko závisí od potreby, dohody a rozhodnutia členov kruhu.
+
+::: {.word-note}
+*Poznámka: Kruhy umožňujú veľkú pružnosť, aj čo sa týka voľby zástupcov, aj akejkoľvek inej reorganizácie kruhov členmi. Je dobré si ale uvedomiť, že každá zmena vyžaduje nejakú aktivitu, t.j. čas a energiu a má preto aj nejaké náklady časové, osobné, emočné, ktoré je rozumné optimalizovať/minimalizovať, aby členovia kruhu mohli sústrediť svoju pozornosť na to, čo chcú robiť a nielen na neproduktívne personálne a organizačné záležitosti.*
+:::
+
+::: {.word-note}
+*Každá vykonávaná činnosť vyžaduje isté vedomosti do ktorých o.i. patrí aj poznanie ľudí s ktorými sa spolupracuje. To sa týka členov kruhov aj ich zástupcov. Zástupcovia kruhov v kruhoch vyšších stupňoch spolu tiež spolupracujú a preto je lepšie, ak sa poznajú čo najlepšie. Čím lepšie sa poznajú ľudia v kruhoch v ktorých sú, tým lepšie, pretože tým je aj ich komunikácia a spolupráca efektívnejšia. Preto odporúčame organizačné zmeny nerobiť bezúčelne, ale iba s cieľom zlepšiť fungovanie kruhu. Každá výmena zástupcu kruhu, ako aj akákoľvek reorganizácia kruhov môže totižto viesť aj k dočasnému, alebo aj trvalému zníženiu efektívnosti dotknutých kruhov.*
+:::
+
+::: {.word-note}
+*Na druhej strane prílišné ľpenie kohokoľvek na čomkoľvek, aj akejkoľvek funkcii môže tiež znižovať funkčnosť kruhu a jeho efektivitu. Každý človek má nejaké silné ale aj slabé stránky, preto môže byť neraz lepšie, keď sa vo funkcii zástupcu kruhu striedajú viacerí ľudia z kruhu. Optimálne všetci, ktorí túto funkciu chcú vykonávať a majú na to predpoklady, t.j. so súhlasom členov kruhu. Získavajú tým o.i. potrebné skúsenosti a zručnosti a ich silnejšie stránky môžu pomôcť zlepšiť fungovanie kruhu.*
+:::
+
+Člen OK sa podieľa na činnosti jedného, alebo viacerých kruhov. Napr. zástupca kruhu zastupuje kruh aj v kruhu vyššieho stupňa. Zúčastňuje a podieľa sa teda na činnosti nielen v jednom kruhu, ale aj kruhu vyššieho stupňa. Kruh na vyššom stupni pozostáva zo zástupcov kruhov nižšieho stupňa. Týmto spôsobom môžu všetci členovia všetkých kruhov spolu spolupracovať a byť zorganizovaní v jednej organizácii veľmi pružne a slobodne, [kruhovo-sieťovo-spätno-väzobne-ahierarchicky](#word-preco-kruhovo-sietovo-spatno-vazobn).
+
+Príklad možnej organizácie a prepojení kruhov v jednom meste je uvedený v kapitole Príklady organizácie Kruhov v samospráve.
+
+[]{#word-ako-zalozit-kruh}
+
+## Ako založiť nový kruh?
+
+Jednoducho tak, že jeden alebo viacero ľudí sa rozhodne založiť svoj kruh. Pozvú doň napr. ľudí zo svojej rodiny, priateľov, alebo známych, alebo ľudí zo svojho okolia, susedstva, alebo sebe názorovo alebo inak blízkych ľudí s ktorými už spolupracujú, alebo chcú spolupracovať v spoločnom v kruhu.
+
+## Ako sa stať členom OK?
+
+### Nový kruh:
+
+V novom kruhu si jeho členovia najskôr môžu zvoliť svojho zástupcu (ako vybrať zástupcu kruhu?). Ten sa potom môže skontaktovať s nejakým členom najbližšieho kruhu OK s ktorým by chcel spolupracovať. Najlepšie priamo so zástupcom daného kruhu. Na budúcom stretnutí svojho kruhu tento oslovený člen, alebo oslovený zástupca môže dať návrh na prijatie nového kruhu do OK. Zástupcovia v kruhu zástupcov (kruhu 2. stupňa OK) potom môžu rozhodnúť o prijatí nového kruhu do OK a tým aj o prijatí zástupcu tohto nového kruhu do svojho kruhu zástupcov. Tým sa tento nový kruh stane súčasťou OK a aj všetci jeho členovia členmi OK.
+
+### Individuálne:
+
+Ak sa niekto chce stať členom OK samostatne, môže si vybrať z už existujúcich kruhov OK do ktorého sa chce pridať. Či už podľa miesta, zamerania, členov kruhov a pod. Môže osloviť ktoréhokoľvek člena OK z daného kruhu a prejaviť záujem o prijatie do daného kruhu. Tento oslovený člen na budúcom stretnutí kruhu môže dať návrh na jeho prijatie za člena tohto kruhu. Po schválení ostatnými členmi kruhu sa stane novým členom tohto kruhu a tým aj členom OK.
+
+Takto vznikajú a rozširujú sa kruhy a aj OK tým, že sa jednotliví ľudia uchádzajú o členstvo v ktoromkoľvek kruhu OK, alebo spoločne s inými vytvoria nový kruh a spoločne v tomto novom kruhu sa uchádzajú o členstvo v OK prostredníctvom svojho zástupcu, ktorého si zvolili.

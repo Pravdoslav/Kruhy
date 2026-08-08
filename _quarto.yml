@@ -1,19 +1,20 @@
 project:
-  type: book
+  type: website
   output-dir: docs
-
-book:
-  title: "Kruhy"
-  author: "Marián Orávik (Pravdoslav)"
-  date: last-modified
-  search: true
-  page-navigation: true
-  chapters:
+  render:
     - index.qmd
-    - book/01-zacni-tu.qmd
     - about.qmd
     - download.qmd
-    - changelog.qmd
+
+website:
+  title: "Kruhy"
+  search: true
+  navbar:
+    left:
+      - href: download.qmd
+        text: Na stiahnutie
+      - href: about.qmd
+        text: O projekte
 
 lang: sk
 
@@ -22,12 +23,11 @@ format:
     css: styles.scss
     toc: true
     toc-depth: 3
+    toc-location: right
+    toc-title: Obsah
+    smooth-scroll: true
+    page-layout: article
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
-    toc: true
-  epub:
-    toc: true
 
 execute:
   freeze: auto

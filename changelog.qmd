@@ -4,3 +4,4 @@
 
 - Vytvorený technický základ digitálnej knihy.
 - Pripravené formáty HTML, PDF a EPUB.
+- Rukopis *Kruhy 1.0d* prevedený do samostatných editovateľných kapitol.
