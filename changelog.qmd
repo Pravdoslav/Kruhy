@@ -1,0 +1,6 @@
+# História verzií
+
+## Pracovné vydanie
+
+- Vytvorený technický základ digitálnej knihy.
+- Pripravené formáty HTML, PDF a EPUB.

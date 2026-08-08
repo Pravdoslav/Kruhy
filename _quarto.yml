@@ -1,0 +1,33 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Kruhy"
+  author: "Marián Orávik (Pravdoslav)"
+  date: last-modified
+  search: true
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - book/01-zacni-tu.qmd
+    - about.qmd
+    - download.qmd
+    - changelog.qmd
+
+lang: sk
+
+format:
+  html:
+    css: styles.scss
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    toc: true
+  epub:
+    toc: true
+
+execute:
+  freeze: auto

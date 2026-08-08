@@ -1,0 +1,7 @@
+# Výstupy Quarto vytvárané lokálne
+.quarto/
+_freeze/
+
+# Výstupy PDF a EPUB
+*.pdf
+*.epub

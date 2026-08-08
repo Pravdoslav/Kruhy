@@ -1,0 +1,23 @@
+/* Jemné úpravy vzhľadu digitálneho vydania. */
+
+:root {
+  --bs-body-font-family: Georgia, "Times New Roman", serif;
+  --bs-body-line-height: 1.75;
+}
+
+#quarto-content {
+  max-width: 78rem;
+}
+
+.quarto-title-banner {
+  background: #27352e;
+}
+
+h1, h2, h3, .sidebar-title {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+.btn-primary {
+  background: #27352e;
+  border-color: #27352e;
+}

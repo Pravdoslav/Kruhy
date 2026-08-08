@@ -1,0 +1,5 @@
+# Začni tu
+
+Táto stránka bude vstupom do knihy.
+
+Rukopis sem budeme postupne prenášať po kapitolách. Každá kapitola bude samostatný súbor, aby sa dala ľahko čítať, upravovať a sledovať v histórii projektu.

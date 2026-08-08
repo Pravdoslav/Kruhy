@@ -1,0 +1,9 @@
+---
+title: "Kruhy"
+---
+
+# Kruhy
+
+Pracovné digitálne vydanie knihy Mariána Orávika (Pravdoslav).
+
+[Začni tu](book/01-zacni-tu.qmd){.btn .btn-primary}

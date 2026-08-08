@@ -1,0 +1,5 @@
+# Stiahnuť knihu
+
+Webové vydanie je hlavný spôsob čítania.
+
+PDF a EPUB budú vytvorené z tých istých zdrojových kapitol pri každom verejnom vydaní. Odkazy na hotové súbory doplníme pri prvom publikovaní.
